@@ -1,0 +1,9 @@
+pagead.l.doubleclick.net
+googleads.g.doubleclick.net
+partnerad.l.google.com
+ad.doubleclick.net
+static.doubleclick.net
+s0.2mdn.net
+adservice.google.com
+adservice.google.de
+ads.youtube.com
