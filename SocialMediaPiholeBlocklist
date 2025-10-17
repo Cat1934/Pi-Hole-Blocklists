@@ -1,0 +1,95 @@
+# social-media-and-spotify-blocklist.txt
+# Blockiert große Social-Media-Plattformen + Spotify
+# Für Pi-hole / AdGuardHome
+# Erstellt: Oktober 2025
+
+# --- Facebook / Instagram / Threads ---
+facebook.com
+www.facebook.com
+m.facebook.com
+fbcdn.net
+fbcdn.com
+connect.facebook.net
+graph.facebook.com
+instagram.com
+www.instagram.com
+static.cdninstagram.com
+cdninstagram.com
+threads.net
+
+# --- X / Twitter ---
+twitter.com
+www.twitter.com
+api.twitter.com
+t.co
+pbs.twimg.com
+abs.twimg.com
+ton.twimg.com
+upload.twitter.com
+
+# --- TikTok ---
+tiktok.com
+www.tiktok.com
+api.tiktok.com
+log.tiktok.com
+v16m.tiktokcdn.com
+v19.tiktokcdn.com
+tiktokcdn.com
+byteoversea.com
+
+# --- Snapchat ---
+snapchat.com
+app.snapchat.com
+feelinsonic.snapsvc.com
+sc-cdn.net
+snapads.com
+ads.snapchat.com
+
+# --- LinkedIn ---
+linkedin.com
+www.linkedin.com
+static.licdn.com
+licdn.com
+
+# --- Pinterest ---
+pinterest.com
+www.pinterest.com
+api.pinterest.com
+v.pinimg.com
+s.pinimg.com
+pinimg.com
+
+# --- Reddit ---
+reddit.com
+www.reddit.com
+api.reddit.com
+out.reddit.com
+redd.it
+v.redd.it
+preview.redd.it
+
+# --- Discord ---
+discord.com
+cdn.discordapp.com
+media.discordapp.net
+discord.gg
+discordapp.com
+
+# --- YouTube / Google Social ---
+youtube.com
+www.youtube.com
+m.youtube.com
+ytimg.com
+youtubei.googleapis.com
+
+# --- Spotify ---
+spotify.com
+www.spotify.com
+open.spotify.com
+api.spotify.com
+accounts.spotify.com
+spclient.wg.spotify.com
+audio-fa.scdn.co
+audio-ec.spotifycdn.com
+scdn.co
+spotifycdn.com
